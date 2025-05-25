@@ -1,16 +1,22 @@
 # Dashboard Interattiva di Analisi Dati.
 
-Questa è una **dashboard interattiva** per l'analisi esplorativa dei dati sviluppata in **Python** utilizzando la libreria **Streamlit**. Permette di caricare file CSV, generare grafici (istogrammi, pie chart, boxplot) e ottenere statistiche di base, con la possibilità di esportare i risultati in PDF e CSV.
+# dashboard-analisi-dati
 
-## 🔧 Tecnologie utilizzate
-- **Python 3.12**  
-- **Streamlit**  
-- **Pandas**  
-- **Matplotlib**  
-- **Plotly**  
-- **fpdf**
+Questa è una dashboard interattiva per l'analisi esplorativa dei dati sviluppata in **Python** utilizzando la libreria **Streamlit**. Permette di caricare file CSV, generare grafici (istogrammi, pie chart, boxplot) e ottenere statistiche di base, con la possibilità di esportare i risultati in PDF e CSV.
 
-## 🚀 Funzionalità principali
+---
+
+## 🚀 Tecnologie utilizzate
+- Python 3.12
+- Streamlit
+- Pandas
+- Matplotlib
+- Plotly
+- fpdf
+
+---
+
+## ✨ Funzionalità principali
 ✅ Caricamento di file CSV  
 ✅ Visualizzazione dell'anteprima dei dati  
 ✅ Selezione delle colonne numeriche da analizzare  
@@ -18,7 +24,17 @@ Questa è una **dashboard interattiva** per l'analisi esplorativa dei dati svilu
 ✅ Statistiche di base (media, deviazione standard, ecc.)  
 ✅ Esportazione dei grafici e delle statistiche in PDF e CSV  
 
-## 📁 Come usare il progetto
+---
+
+## 📸 Screenshot
+
+Ecco un'anteprima della dashboard in funzione:  
+
+![Dashboard Screenshot](./boxplot.png)
+
+---
+
+## 📦 Come usare il progetto
 
 ### 1️⃣ Clona il repository
 ```bash
